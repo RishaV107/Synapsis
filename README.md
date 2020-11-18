@@ -11,6 +11,6 @@ It is basically a website through which :
        CONTACT US:
                Rishav Singh
                Mail:rishavsingh107@gmail.com
-               phone:7007145610</h3>
+           
                
      
